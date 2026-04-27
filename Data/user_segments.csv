@@ -1,0 +1,485 @@
+user_id,total_events,unique_features,engagement_score,segment
+U1000,13,7,35.8,Casual user
+U1001,11,5,26.6,At-risk
+U1002,3,2,9.8,At-risk
+U1003,10,3,18.0,At-risk
+U1004,37,7,50.2,Casual user
+U1005,6,5,23.6,At-risk
+U1006,66,7,67.6,Casual user
+U1007,1,1,4.6,At-risk
+U1008,6,4,19.6,At-risk
+U1009,8,5,24.8,At-risk
+U1010,27,7,44.2,Casual user
+U1011,17,6,34.2,Casual user
+U1012,16,5,29.6,At-risk
+U1013,14,6,32.4,Casual user
+U1014,14,6,32.4,Casual user
+U1015,37,7,50.2,Casual user
+U1016,19,6,35.4,Casual user
+U1017,29,6,41.4,Casual user
+U1018,203,7,149.8,Power user
+U1020,10,5,26.0,At-risk
+U1021,12,3,19.2,At-risk
+U1022,6,4,19.6,At-risk
+U1023,2,1,5.2,At-risk
+U1024,24,6,38.4,Casual user
+U1025,16,6,33.6,Casual user
+U1026,18,6,34.8,Casual user
+U1027,3,2,9.8,At-risk
+U1028,88,7,80.8,Power user
+U1029,17,6,34.2,Casual user
+U1030,54,7,60.4,Casual user
+U1032,8,4,20.8,At-risk
+U1033,11,3,18.6,At-risk
+U1035,7,3,16.2,At-risk
+U1036,9,5,25.4,At-risk
+U1037,68,7,68.8,Casual user
+U1038,102,7,89.2,Power user
+U1039,12,5,27.2,At-risk
+U1040,7,5,24.2,At-risk
+U1041,2,1,5.2,At-risk
+U1042,3,3,13.8,At-risk
+U1043,25,6,39.0,Casual user
+U1044,16,7,37.6,Casual user
+U1045,7,3,16.2,At-risk
+U1046,9,6,29.4,At-risk
+U1047,4,2,10.4,At-risk
+U1048,42,7,53.2,Casual user
+U1049,24,7,42.4,Casual user
+U1050,3,3,13.8,At-risk
+U1051,20,6,36.0,Casual user
+U1052,5,4,19.0,At-risk
+U1053,25,5,35.0,Casual user
+U1054,55,7,61.0,Casual user
+U1055,42,7,53.2,Casual user
+U1056,15,6,33.0,Casual user
+U1057,18,7,38.8,Casual user
+U1058,8,3,16.8,At-risk
+U1059,5,3,15.0,At-risk
+U1060,88,7,80.8,Power user
+U1061,45,7,55.0,Casual user
+U1063,16,7,37.6,Casual user
+U1064,32,7,47.2,Casual user
+U1065,15,5,29.0,At-risk
+U1066,7,1,8.2,At-risk
+U1067,17,6,34.2,Casual user
+U1068,6,3,15.6,At-risk
+U1069,5,2,11.0,At-risk
+U1070,4,3,14.4,At-risk
+U1071,32,7,47.2,Casual user
+U1072,138,7,110.8,Power user
+U1073,17,5,30.2,Casual user
+U1074,47,7,56.2,Casual user
+U1075,21,7,40.6,Casual user
+U1076,3,3,13.8,At-risk
+U1077,14,5,28.4,At-risk
+U1078,8,2,12.8,At-risk
+U1080,44,7,54.4,Casual user
+U1081,13,6,31.8,Casual user
+U1082,73,6,67.8,Casual user
+U1083,26,7,43.6,Casual user
+U1084,8,5,24.8,At-risk
+U1085,18,6,34.8,Casual user
+U1086,35,6,45.0,Casual user
+U1087,29,7,45.4,Casual user
+U1088,3,2,9.8,At-risk
+U1089,2,2,9.2,At-risk
+U1090,9,5,25.4,At-risk
+U1091,49,7,57.4,Casual user
+U1092,19,7,39.4,Casual user
+U1093,8,4,20.8,At-risk
+U1094,2,2,9.2,At-risk
+U1095,8,2,12.8,At-risk
+U1096,227,7,164.2,Power user
+U1097,10,6,30.0,Casual user
+U1098,69,7,69.4,Casual user
+U1099,60,7,64.0,Casual user
+U1100,2,2,9.2,At-risk
+U1101,22,7,41.2,Casual user
+U1102,17,6,34.2,Casual user
+U1103,31,6,42.6,Casual user
+U1104,7,3,16.2,At-risk
+U1105,78,7,74.8,Casual user
+U1106,6,3,15.6,At-risk
+U1107,10,6,30.0,Casual user
+U1108,19,7,39.4,Casual user
+U1109,51,7,58.6,Casual user
+U1110,27,5,36.2,Casual user
+U1111,6,3,15.6,At-risk
+U1112,38,7,50.8,Casual user
+U1113,20,6,36.0,Casual user
+U1114,75,7,73.0,Casual user
+U1115,2,1,5.2,At-risk
+U1116,4,2,10.4,At-risk
+U1117,34,7,48.4,Casual user
+U1118,4,2,10.4,At-risk
+U1119,1,1,4.6,At-risk
+U1120,23,7,41.8,Casual user
+U1121,22,7,41.2,Casual user
+U1122,47,6,52.2,Casual user
+U1123,6,3,15.6,At-risk
+U1124,15,6,33.0,Casual user
+U1125,24,6,38.4,Casual user
+U1126,1,1,4.6,At-risk
+U1127,102,7,89.2,Power user
+U1128,14,4,24.4,At-risk
+U1129,124,7,102.4,Power user
+U1130,12,5,27.2,At-risk
+U1131,12,4,23.2,At-risk
+U1132,140,7,112.0,Power user
+U1133,151,7,118.6,Power user
+U1134,19,7,39.4,Casual user
+U1135,9,4,21.4,At-risk
+U1136,14,7,36.4,Casual user
+U1137,18,5,30.8,Casual user
+U1138,35,7,49.0,Casual user
+U1139,18,7,38.8,Casual user
+U1141,2,1,5.2,At-risk
+U1142,9,2,13.4,At-risk
+U1143,106,7,91.6,Power user
+U1144,11,4,22.6,At-risk
+U1145,16,4,25.6,At-risk
+U1146,22,5,33.2,Casual user
+U1147,14,7,36.4,Casual user
+U1148,21,7,40.6,Casual user
+U1149,10,5,26.0,At-risk
+U1150,71,7,70.6,Casual user
+U1151,35,7,49.0,Casual user
+U1152,3,3,13.8,At-risk
+U1153,1,1,4.6,At-risk
+U1154,4,3,14.4,At-risk
+U1155,8,5,24.8,At-risk
+U1157,9,5,25.4,At-risk
+U1158,4,4,18.4,At-risk
+U1159,12,6,31.2,Casual user
+U1160,8,6,28.8,At-risk
+U1161,44,7,54.4,Casual user
+U1163,23,5,33.8,Casual user
+U1164,20,7,40.0,Casual user
+U1165,3,2,9.8,At-risk
+U1166,1,1,4.6,At-risk
+U1167,31,7,46.6,Casual user
+U1168,15,5,29.0,At-risk
+U1169,4,2,10.4,At-risk
+U1170,62,6,61.2,Casual user
+U1171,18,7,38.8,Casual user
+U1172,12,5,27.2,At-risk
+U1173,29,7,45.4,Casual user
+U1174,32,7,47.2,Casual user
+U1175,1,1,4.6,At-risk
+U1176,4,4,18.4,At-risk
+U1177,3,2,9.8,At-risk
+U1178,9,5,25.4,At-risk
+U1179,6,4,19.6,At-risk
+U1180,67,7,68.2,Casual user
+U1181,64,7,66.4,Casual user
+U1182,5,4,19.0,At-risk
+U1183,7,3,16.2,At-risk
+U1184,7,4,20.2,At-risk
+U1186,43,7,53.8,Casual user
+U1187,3,3,13.8,At-risk
+U1188,10,4,22.0,At-risk
+U1189,17,5,30.2,Casual user
+U1190,7,5,24.2,At-risk
+U1191,17,6,34.2,Casual user
+U1192,1,1,4.6,At-risk
+U1193,3,2,9.8,At-risk
+U1194,1,1,4.6,At-risk
+U1195,24,7,42.4,Casual user
+U1196,25,7,43.0,Casual user
+U1197,3,3,13.8,At-risk
+U1198,5,2,11.0,At-risk
+U1199,84,7,78.4,Casual user
+U1200,40,7,52.0,Casual user
+U1201,71,7,70.6,Casual user
+U1202,105,7,91.0,Power user
+U1203,10,5,26.0,At-risk
+U1204,5,4,19.0,At-risk
+U1205,6,3,15.6,At-risk
+U1206,1,1,4.6,At-risk
+U1207,10,5,26.0,At-risk
+U1208,3,3,13.8,At-risk
+U1209,26,7,43.6,Casual user
+U1210,14,6,32.4,Casual user
+U1211,25,7,43.0,Casual user
+U1212,12,3,19.2,At-risk
+U1213,2,2,9.2,At-risk
+U1214,47,7,56.2,Casual user
+U1215,145,7,115.0,Power user
+U1216,52,6,55.2,Casual user
+U1217,34,7,48.4,Casual user
+U1218,12,4,23.2,At-risk
+U1219,17,6,34.2,Casual user
+U1220,104,7,90.4,Power user
+U1221,7,3,16.2,At-risk
+U1222,35,7,49.0,Casual user
+U1223,15,5,29.0,At-risk
+U1224,25,5,35.0,Casual user
+U1225,59,6,59.4,Casual user
+U1226,65,7,67.0,Casual user
+U1227,21,5,32.6,Casual user
+U1228,12,5,27.2,At-risk
+U1229,130,7,106.0,Power user
+U1230,21,7,40.6,Casual user
+U1231,14,7,36.4,Casual user
+U1232,43,7,53.8,Casual user
+U1233,66,7,67.6,Casual user
+U1234,6,4,19.6,At-risk
+U1235,1,1,4.6,At-risk
+U1236,29,7,45.4,Casual user
+U1237,1,1,4.6,At-risk
+U1238,4,4,18.4,At-risk
+U1239,2,2,9.2,At-risk
+U1241,62,7,65.2,Casual user
+U1242,16,7,37.6,Casual user
+U1243,19,6,35.4,Casual user
+U1244,23,7,41.8,Casual user
+U1245,30,6,42.0,Casual user
+U1246,2,2,9.2,At-risk
+U1247,6,4,19.6,At-risk
+U1248,2,2,9.2,At-risk
+U1249,2,2,9.2,At-risk
+U1250,8,2,12.8,At-risk
+U1251,71,7,70.6,Casual user
+U1252,9,3,17.4,At-risk
+U1253,2,1,5.2,At-risk
+U1254,133,7,107.8,Power user
+U1255,100,7,88.0,Power user
+U1256,7,4,20.2,At-risk
+U1257,2,2,9.2,At-risk
+U1258,14,5,28.4,At-risk
+U1259,34,7,48.4,Casual user
+U1260,47,7,56.2,Casual user
+U1261,13,5,27.8,At-risk
+U1262,6,3,15.6,At-risk
+U1263,5,2,11.0,At-risk
+U1264,103,7,89.8,Power user
+U1265,50,7,58.0,Casual user
+U1266,18,6,34.8,Casual user
+U1267,100,7,88.0,Power user
+U1268,36,6,45.6,Casual user
+U1269,5,3,15.0,At-risk
+U1270,10,3,18.0,At-risk
+U1271,6,4,19.6,At-risk
+U1272,4,2,10.4,At-risk
+U1273,141,7,112.6,Power user
+U1274,2,1,5.2,At-risk
+U1275,20,6,36.0,Casual user
+U1276,18,6,34.8,Casual user
+U1277,10,3,18.0,At-risk
+U1278,13,4,23.8,At-risk
+U1279,14,6,32.4,Casual user
+U1280,21,7,40.6,Casual user
+U1281,17,7,38.2,Casual user
+U1282,27,6,40.2,Casual user
+U1283,6,3,15.6,At-risk
+U1284,3,2,9.8,At-risk
+U1285,156,7,121.6,Power user
+U1287,17,6,34.2,Casual user
+U1288,5,3,15.0,At-risk
+U1289,13,5,27.8,At-risk
+U1290,3,3,13.8,At-risk
+U1291,15,6,33.0,Casual user
+U1292,23,5,33.8,Casual user
+U1293,3,3,13.8,At-risk
+U1294,43,7,53.8,Casual user
+U1295,20,6,36.0,Casual user
+U1296,12,3,19.2,At-risk
+U1297,17,5,30.2,Casual user
+U1298,2,2,9.2,At-risk
+U1299,52,7,59.2,Casual user
+U1300,80,7,76.0,Casual user
+U1301,13,5,27.8,At-risk
+U1302,89,7,81.4,Power user
+U1303,2,1,5.2,At-risk
+U1304,8,6,28.8,At-risk
+U1305,25,4,31.0,Casual user
+U1307,7,2,12.2,At-risk
+U1308,63,7,65.8,Casual user
+U1309,71,7,70.6,Casual user
+U1310,189,7,141.4,Power user
+U1311,4,3,14.4,At-risk
+U1312,8,5,24.8,At-risk
+U1313,8,4,20.8,At-risk
+U1314,11,4,22.6,At-risk
+U1315,42,7,53.2,Casual user
+U1316,1,1,4.6,At-risk
+U1317,58,7,62.8,Casual user
+U1318,10,4,22.0,At-risk
+U1319,24,6,38.4,Casual user
+U1320,38,7,50.8,Casual user
+U1321,15,4,25.0,At-risk
+U1322,82,7,77.2,Casual user
+U1323,34,6,44.4,Casual user
+U1324,16,5,29.6,At-risk
+U1325,74,7,72.4,Casual user
+U1326,17,5,30.2,Casual user
+U1327,58,7,62.8,Casual user
+U1328,184,7,138.4,Power user
+U1329,67,7,68.2,Casual user
+U1330,42,7,53.2,Casual user
+U1331,2,1,5.2,At-risk
+U1332,49,7,57.4,Casual user
+U1333,16,6,33.6,Casual user
+U1334,49,7,57.4,Casual user
+U1335,51,7,58.6,Casual user
+U1336,2,2,9.2,At-risk
+U1337,141,7,112.6,Power user
+U1338,7,3,16.2,At-risk
+U1339,22,6,37.2,Casual user
+U1340,18,6,34.8,Casual user
+U1341,16,5,29.6,At-risk
+U1342,10,6,30.0,Casual user
+U1343,8,4,20.8,At-risk
+U1344,10,5,26.0,At-risk
+U1345,10,5,26.0,At-risk
+U1346,1,1,4.6,At-risk
+U1347,21,5,32.6,Casual user
+U1348,80,7,76.0,Casual user
+U1349,1,1,4.6,At-risk
+U1350,5,3,15.0,At-risk
+U1351,42,7,53.2,Casual user
+U1352,42,7,53.2,Casual user
+U1353,2,2,9.2,At-risk
+U1354,68,7,68.8,Casual user
+U1355,23,7,41.8,Casual user
+U1356,95,7,85.0,Power user
+U1357,11,6,30.6,Casual user
+U1358,4,3,14.4,At-risk
+U1359,12,5,27.2,At-risk
+U1360,14,4,24.4,At-risk
+U1361,4,4,18.4,At-risk
+U1362,9,4,21.4,At-risk
+U1363,18,6,34.8,Casual user
+U1364,6,4,19.6,At-risk
+U1365,9,4,21.4,At-risk
+U1366,4,3,14.4,At-risk
+U1367,29,7,45.4,Casual user
+U1368,8,5,24.8,At-risk
+U1369,71,7,70.6,Casual user
+U1370,49,7,57.4,Casual user
+U1371,23,7,41.8,Casual user
+U1372,9,5,25.4,At-risk
+U1373,3,3,13.8,At-risk
+U1374,2,1,5.2,At-risk
+U1375,3,2,9.8,At-risk
+U1376,25,7,43.0,Casual user
+U1377,3,2,9.8,At-risk
+U1378,10,4,22.0,At-risk
+U1379,136,7,109.6,Power user
+U1380,35,6,45.0,Casual user
+U1382,26,6,39.6,Casual user
+U1383,12,6,31.2,Casual user
+U1384,9,4,21.4,At-risk
+U1385,5,3,15.0,At-risk
+U1386,24,6,38.4,Casual user
+U1387,2,2,9.2,At-risk
+U1388,56,7,61.6,Casual user
+U1389,35,6,45.0,Casual user
+U1390,91,7,82.6,Power user
+U1391,23,6,37.8,Casual user
+U1392,1,1,4.6,At-risk
+U1393,36,7,49.6,Casual user
+U1394,2,1,5.2,At-risk
+U1396,26,7,43.6,Casual user
+U1397,1,1,4.6,At-risk
+U1398,8,5,24.8,At-risk
+U1399,11,6,30.6,Casual user
+U1400,4,4,18.4,At-risk
+U1401,18,6,34.8,Casual user
+U1402,14,6,32.4,Casual user
+U1403,6,5,23.6,At-risk
+U1404,29,6,41.4,Casual user
+U1405,7,4,20.2,At-risk
+U1406,10,5,26.0,At-risk
+U1407,39,7,51.4,Casual user
+U1408,48,7,56.8,Casual user
+U1409,1,1,4.6,At-risk
+U1410,42,7,53.2,Casual user
+U1411,5,4,19.0,At-risk
+U1412,39,6,47.4,Casual user
+U1413,18,6,34.8,Casual user
+U1415,15,6,33.0,Casual user
+U1416,12,5,27.2,At-risk
+U1417,3,2,9.8,At-risk
+U1418,60,7,64.0,Casual user
+U1419,3,3,13.8,At-risk
+U1420,24,7,42.4,Casual user
+U1421,25,6,39.0,Casual user
+U1422,6,2,11.6,At-risk
+U1423,7,4,20.2,At-risk
+U1424,27,5,36.2,Casual user
+U1425,6,5,23.6,At-risk
+U1426,2,2,9.2,At-risk
+U1427,11,6,30.6,Casual user
+U1428,47,7,56.2,Casual user
+U1429,68,7,68.8,Casual user
+U1430,2,1,5.2,At-risk
+U1431,1,1,4.6,At-risk
+U1432,10,6,30.0,Casual user
+U1433,22,6,37.2,Casual user
+U1434,17,6,34.2,Casual user
+U1435,4,3,14.4,At-risk
+U1436,1,1,4.6,At-risk
+U1437,97,7,86.2,Power user
+U1438,2,2,9.2,At-risk
+U1439,109,7,93.4,Power user
+U1440,7,4,20.2,At-risk
+U1441,101,7,88.6,Power user
+U1442,8,3,16.8,At-risk
+U1443,1,1,4.6,At-risk
+U1444,199,7,147.4,Power user
+U1445,58,7,62.8,Casual user
+U1446,72,7,71.2,Casual user
+U1447,46,7,55.6,Casual user
+U1448,103,7,89.8,Power user
+U1449,19,6,35.4,Casual user
+U1450,45,6,51.0,Casual user
+U1451,29,7,45.4,Casual user
+U1452,3,2,9.8,At-risk
+U1453,13,4,23.8,At-risk
+U1454,11,4,22.6,At-risk
+U1455,65,7,67.0,Casual user
+U1456,46,7,55.6,Casual user
+U1457,15,6,33.0,Casual user
+U1458,27,6,40.2,Casual user
+U1459,5,3,15.0,At-risk
+U1461,4,4,18.4,At-risk
+U1462,17,6,34.2,Casual user
+U1463,3,2,9.8,At-risk
+U1464,10,4,22.0,At-risk
+U1465,8,4,20.8,At-risk
+U1466,14,5,28.4,At-risk
+U1467,53,7,59.8,Casual user
+U1468,18,6,34.8,Casual user
+U1469,12,5,27.2,At-risk
+U1470,22,6,37.2,Casual user
+U1471,47,7,56.2,Casual user
+U1472,15,7,37.0,Casual user
+U1473,6,3,15.6,At-risk
+U1474,7,5,24.2,At-risk
+U1475,221,7,160.6,Power user
+U1476,23,5,33.8,Casual user
+U1477,73,7,71.8,Casual user
+U1478,126,7,103.6,Power user
+U1479,42,7,53.2,Casual user
+U1480,2,1,5.2,At-risk
+U1481,1,1,4.6,At-risk
+U1482,2,2,9.2,At-risk
+U1483,65,7,67.0,Casual user
+U1484,24,7,42.4,Casual user
+U1485,145,7,115.0,Power user
+U1486,16,5,29.6,At-risk
+U1487,36,7,49.6,Casual user
+U1488,39,7,51.4,Casual user
+U1489,24,7,42.4,Casual user
+U1490,8,4,20.8,At-risk
+U1491,6,4,19.6,At-risk
+U1492,1,1,4.6,At-risk
+U1493,3,2,9.8,At-risk
+U1494,24,6,38.4,Casual user
+U1495,18,6,34.8,Casual user
+U1496,3,2,9.8,At-risk
+U1497,7,3,16.2,At-risk
+U1498,15,5,29.0,At-risk
+U1499,3,2,9.8,At-risk
