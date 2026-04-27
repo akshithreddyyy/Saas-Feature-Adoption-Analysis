@@ -5,6 +5,14 @@
 
 ---
 
+## Dashboard
+
+![Dashboard Overview](Charts/dashboard_preview.png)
+
+[View live on Tableau Public](https://public.tableau.com/views/Book1_17773223961290/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## Overview
 
 This project works through the kind of analysis a product team at a SaaS company runs regularly. Which features are people actually using? Where are users dropping off? Who is at risk of churning?
@@ -34,14 +42,6 @@ Only 36 users qualify as power users. The product is heavily reliant on a small 
 Dashboard sits at 100% adoption and Reports at 92%, but there is a clear drop at Team Collaboration (77%) and Integrations (69%).
 
 ![Feature Adoption Funnel](Charts/chart_funnel.png)
-
----
-
-## Dashboard
-
-![Dashboard Overview](Charts/dashboard_preview.png)
-
-[View live on Tableau Public](https://public.tableau.com/views/Book1_17773223961290/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
