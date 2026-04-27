@@ -18,30 +18,30 @@ I generated a synthetic dataset modelled on real product event data, ran SQL que
 **Dashboard and Reports drive 67% of all activity.**  
 Users are coming to the product primarily for reporting. Advanced features like Integrations and API Access see significantly lower engagement.
 
-![Feature Usage Chart](charts/chart_features.png)
+![Feature Usage Chart](Charts/chart_features.png)
 
 **User growth accelerated 40x over 12 months.**  
 Monthly active users grew from 9 in April 2025 to 390 by March 2026, with growth picking up sharply from October onward.
 
-![MAU Trend](charts/chart_mau.png)
+![MAU Trend](Charts/chart_mau.png)
 
 **45% of users are at risk of churning.**  
 Only 36 users qualify as power users. The product is heavily reliant on a small highly engaged segment while the majority sit dangerously close to inactive.
 
-![User Segments](charts/chart_segments.png)
+![User Segments](Charts/chart_segments.png)
 
 **Adoption drops off after Reports.**  
 Dashboard sits at 100% adoption and Reports at 92%, but there is a clear drop at Team Collaboration (77%) and Integrations (69%).
 
-![Feature Adoption Funnel](charts/chart_funnel.png)
+![Feature Adoption Funnel](Charts/chart_funnel.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard Overview](charts/dashboard_preview.png)
+![Dashboard Overview](Charts/dashboard_preview.png)
 
-[View live on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[View live on Tableau Public](https://public.tableau.com/views/Book1_17773223961290/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -55,22 +55,3 @@ Dashboard sits at 100% adoption and Reports at 92%, but there is a clear drop at
 
 ---
 
-## How to Run
-
-git clone https://github.com/YOUR_USERNAME/saas-feature-adoption-analysis.git
-cd saas-feature-adoption-analysis
-pip install -r requirements.txt
-
-Open notebooks in order starting from 01_generate_data.ipynb.
-
----
-
-## Project Structure
-
-saas-feature-adoption-analysis/
-├── data/
-├── notebooks/
-├── charts/
-├── dashboard/
-├── requirements.txt
-└── README.md
